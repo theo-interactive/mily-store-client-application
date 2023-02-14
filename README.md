@@ -1,2 +1,3 @@
-# mily-store-client-application
-Mily Store Client Application
+# Mily Store Client Application
+
+- NextJS
